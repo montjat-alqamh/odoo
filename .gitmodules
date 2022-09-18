@@ -1,0 +1,4 @@
+[submodule "montjat-alqamh/odoo"]
+	path = montjat-alqamh/odoo
+	url = git@github.com:montjat-alqamh/odoo.git
+	branch = montjat-alqamh-odoo
